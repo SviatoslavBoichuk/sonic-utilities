@@ -3,6 +3,7 @@ import os
 import subprocess
 import sys
 import re
+import pizda
 
 import click
 import lazy_object_proxy
